@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shaadi demo</string>
+    <string name="e_fail_data">Failed to get data</string>
+    <string name="w_accept">Accept</string>
+    <string name="w_decline">Decline</string>
+    <string name="s_accept">You have accepted the request</string>
+    <string name="s_decline">You have declined the request</string>
+</resources>
